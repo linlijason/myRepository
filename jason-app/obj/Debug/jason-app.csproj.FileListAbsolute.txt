@@ -1,0 +1,5 @@
+D:\git\jason-1\jason-app\jason-app\bin\jason-app.dll
+D:\git\jason-1\jason-app\jason-app\bin\jason-app.pdb
+D:\git\jason-1\jason-app\jason-app\obj\Debug\jason-app.csprojResolveAssemblyReference.cache
+D:\git\jason-1\jason-app\jason-app\obj\Debug\jason-app.dll
+D:\git\jason-1\jason-app\jason-app\obj\Debug\jason-app.pdb
